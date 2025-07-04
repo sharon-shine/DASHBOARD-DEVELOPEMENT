@@ -15,7 +15,7 @@ MENTOR: NEELA SANTOSH
 ## I HAVE USED THE TABLEU TO ANALYZE THE BICYCLE RENTAL COUNTS: BY WEEK DAYS AND BY ADJACENT DAYS.
 
 LINK TO TABLEU:
-[🔗 View my Tableau Dashboard](https://public.tableau.com/views/https://public.tableau.com/views/Bicyclerentalcounts/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+https://public.tableau.com/views/Bicyclerentalcounts/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## OUTPUT
 
